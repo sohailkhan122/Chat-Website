@@ -1,0 +1,15 @@
+.fullAppContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.mainContainer {
+    background-color: #F4F5F8;
+    height: 98vh;
+    width: 98vw;
+    display: flex;
+    border-radius: 20px;
+}
